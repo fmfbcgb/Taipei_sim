@@ -60,10 +60,10 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.13f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\MaterialIO\URP\ShaderUtil\Lit\UrpLitContext.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\AwaitCaller\RuntimeOnlyNoThreadAwaitCaller.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\AwaitCaller\TinyManagedTaskScheduler.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\MeshIO\MeshData.cs" />
-    <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\MaterialIO\URP\ShaderUtil\Lit\UrpLitContext.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\MaterialIO\RenderPipelineUtility.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\Format\glTFNode.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\MeshIO\MeshUploader.cs" />
@@ -137,8 +137,8 @@
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\Format\ExtensionsAndExtras\EmissiveMultiplier\Deserializer.g.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\MaterialIO\Utils\UniGLTFShaderNotMatchedInternalException.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\BlendShapeTargetNameLocationFlags.cs" />
-    <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\UShort3.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\MeshUtility\BoneNormalizer.cs" />
+    <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\UShort3.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\MeshUtility\TriangleSeparator.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\Byte3.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\FileSystemStorage.cs" />
@@ -188,12 +188,12 @@
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\Format\GltfSerializer.g.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\MaterialIO\URP\ShaderUtil\Lit\UrpLitSurfaceType.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniJSON\ListTreeNode\ListTreeNode.cs" />
-    <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\TextureIO\Import\GltfTextureImporter.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\PackageVersionPartial.cs" />
+    <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\TextureIO\Import\GltfTextureImporter.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\MeshUtility\GltfMeshUtility.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\TextureIO\Import\GltfPbrTextureImporter.cs" />
-    <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\NativeArrayManager.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniJSON\IStore\BytesStore.cs" />
+    <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\NativeArrayManager.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\MaterialIO\URP\Import\UrpGltfMaterialDescriptorGenerator.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\TextureIO\Import\TextureImportTypes.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\TextureIO\Import\SamplerParam.cs" />
@@ -231,8 +231,8 @@
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\Byte4.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\MeshUtility\BindposeGizmo.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\AwaitCaller\ImmediateCaller.cs" />
-    <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\MaterialIO\Import\MaterialDescriptorGeneratorUtility.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniJSON\FormatterExtensions.cs" />
+    <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\MaterialIO\Import\MaterialDescriptorGeneratorUtility.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\Extensions\IndexExtensions.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\TextureIO\TextureSamplerUtil.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\TextureIO\Converter\NormalConverter.cs" />
