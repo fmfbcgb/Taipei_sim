@@ -87,8 +87,8 @@
     <Compile Include="Assets\VRM10\Editor\Components\Expression\VRM10ExpressionEditor.cs" />
     <Compile Include="Assets\VRM10\Editor\Components\FirstPerson\RendererFirstPersonFlagsDrawer.cs" />
     <Compile Include="Assets\VRM10\Editor\Components\Expression\SerializedExpressionEditor.cs" />
-    <Compile Include="Assets\VRM10\Editor\Components\SpringBone\VRM10SpringBoneColliderGroupDrawer.cs" />
     <Compile Include="Assets\VRM10\Editor\Components\SpringBone\SelectedGUI.cs" />
+    <Compile Include="Assets\VRM10\Editor\Components\SpringBone\VRM10SpringBoneColliderGroupDrawer.cs" />
     <Compile Include="Assets\VRM10\Editor\Components\VRM10Window.cs" />
     <Compile Include="Assets\VRM10\Editor\Settings\Vrm10ProjectSettingsProvider.cs" />
     <Compile Include="Assets\VRM10\Editor\Components\SpringBone\VRM10SpringBoneJointEditor.cs" />
