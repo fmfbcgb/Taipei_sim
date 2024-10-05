@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+D:/Taipei_sim_root/Taipei_sim/Assets/VRM_humans_3D/MMDq.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text

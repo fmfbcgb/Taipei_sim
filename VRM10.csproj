@@ -69,8 +69,8 @@
     <Compile Include="Assets\VRM10\Runtime\AssemblyInfo.cs" />
     <Compile Include="Assets\VRM10\Runtime\Components\Vrm10Runtime\Vrm10FastSpringboneRuntime.cs" />
     <Compile Include="Assets\VRM10\Runtime\ControlRig\AnimatorPoseProvider.cs" />
-    <Compile Include="Assets\VRM10\Runtime\Components\Vrm10Instance\Vrm10Instance.cs" />
     <Compile Include="Assets\VRM10\Runtime\IO\Material\BuiltInRP\Export\Materials\BuiltInVrm10MToonMaterialExporter.cs" />
+    <Compile Include="Assets\VRM10\Runtime\Components\Vrm10Instance\Vrm10Instance.cs" />
     <Compile Include="Assets\VRM10\Runtime\Format\Constraints\Deserializer.g.cs" />
     <Compile Include="Assets\VRM10\Runtime\MeshUtility\Vrm10MeshUtility.cs" />
     <Compile Include="Assets\VRM10\Runtime\Format\SpringBoneExtendedCollider\Deserializer.g.cs" />
@@ -137,8 +137,8 @@
     <Compile Include="Assets\VRM10\Runtime\Migration\MigrationVrmMeta.cs" />
     <Compile Include="Assets\VRM10\Runtime\IO\Model\ModelReader.cs" />
     <Compile Include="Assets\VRM10\Runtime\Components\Vrm10Runtime\Vrm10FastSpringboneRuntimeStandaloneProvider.cs" />
-    <Compile Include="Assets\VRM10\Runtime\Format\SpringBoneExtendedCollider\Format.g.cs" />
     <Compile Include="Assets\VRM10\Runtime\IO\VrmAnimationImporter.cs" />
+    <Compile Include="Assets\VRM10\Runtime\Format\SpringBoneExtendedCollider\Format.g.cs" />
     <Compile Include="Assets\VRM10\Runtime\Components\Expression\MorphTargetBindingMerger\MorphTargetIdentifier.cs" />
     <Compile Include="Assets\VRM10\Runtime\UnityExtensions.cs" />
     <Compile Include="Assets\VRM10\Runtime\Components\Constraint\ConstraintSource.cs" />
@@ -191,8 +191,8 @@
     <Compile Include="Assets\VRM10\Runtime\IO\Model\MeshVertexUtility.cs" />
     <Compile Include="Assets\VRM10\Runtime\Components\LookAt\Matrix4x4Extensions.cs" />
     <Compile Include="Assets\VRM10\Runtime\IO\Model\InterleaveMeshVerticesJob.cs" />
-    <Compile Include="Assets\VRM10\Runtime\IO\Material\Vrm10MaterialDescriptorGeneratorUtility.cs" />
     <Compile Include="Assets\VRM10\Runtime\IO\Model\ModelExporter.cs" />
+    <Compile Include="Assets\VRM10\Runtime\IO\Material\Vrm10MaterialDescriptorGeneratorUtility.cs" />
     <Compile Include="Assets\VRM10\Runtime\Components\Vrm10Runtime\Vrm10FastSpringboneRuntimeStandalone.cs" />
     <Compile Include="Assets\VRM10\Runtime\Migration\Materials\MigrationMaterialUtil.cs" />
     <Compile Include="Assets\VRM10\Runtime\ControlRig\ITPoseProvider.cs" />
@@ -213,8 +213,8 @@
     <Compile Include="Assets\VRM10\Runtime\Components\VrmAnimationInstance\Vrm10AnimationInstance.cs" />
     <Compile Include="Assets\VRM10\Runtime\IO\IVrm10SpringBoneRuntimeProvider.cs" />
     <Compile Include="Assets\VRM10\Runtime\Components\Vrm10Runtime\ControlRig\ControlRigGenerationOption.cs" />
-    <Compile Include="Assets\VRM10\Runtime\Components\Expression\MaterialUVBinding.cs" />
     <Compile Include="Assets\VRM10\Runtime\IO\Material\URP\Import\UrpVrm10MaterialDescriptorGenerator.cs" />
+    <Compile Include="Assets\VRM10\Runtime\Components\Expression\MaterialUVBinding.cs" />
     <Compile Include="Assets\VRM10\Runtime\IO\UnityExtension.cs" />
     <Compile Include="Assets\VRM10\Runtime\Components\LookAt\LookAtInput.cs" />
     <Compile Include="Assets\VRM10\Runtime\IO\Model\MeshImporterShared.cs" />
