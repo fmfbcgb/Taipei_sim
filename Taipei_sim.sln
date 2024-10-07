@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRM10.Tests", "VRM10.Tests.csproj", "{2623A5FF-425F-58A0-CE49-739883A16C1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.AI.Navigation.Samples", "Unity.AI.Navigation.Samples.csproj", "{66615725-50EE-8A23-B2BE-3909CC1CEBDD}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniHumanoid", "UniHumanoid.csproj", "{5A4E9604-4B50-F23F-3FE6-2219BD9B7FE9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRM10.Editor", "VRM10.Editor.csproj", "{296F99E8-5646-6CAA-A72D-F5F9C7CC1C2F}"
@@ -29,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniHumanoid.Editor", "UniHu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VrmLibTests", "VrmLibTests.csproj", "{01BD35E9-950E-9357-5C88-69D929A61D5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.AI.Navigation.Samples.Initialization.Editor", "Unity.AI.Navigation.Samples.Initialization.Editor.csproj", "{8EFEDB8C-E074-2FB2-E90B-CCEF5D2E6BC6}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniGLTF.UniUnlit", "UniGLTF.UniUnlit.csproj", "{C505CBF5-4F48-8662-5974-9AA6E14F0A44}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastSpringBone10", "FastSpringBone10.csproj", "{508F5A27-7A2A-B511-FAFD-8C5D77BE3E9E}"
@@ -53,6 +57,10 @@ Global
 		{2623A5FF-425F-58A0-CE49-739883A16C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2623A5FF-425F-58A0-CE49-739883A16C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2623A5FF-425F-58A0-CE49-739883A16C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66615725-50EE-8A23-B2BE-3909CC1CEBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66615725-50EE-8A23-B2BE-3909CC1CEBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66615725-50EE-8A23-B2BE-3909CC1CEBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66615725-50EE-8A23-B2BE-3909CC1CEBDD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5A4E9604-4B50-F23F-3FE6-2219BD9B7FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5A4E9604-4B50-F23F-3FE6-2219BD9B7FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A4E9604-4B50-F23F-3FE6-2219BD9B7FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -105,6 +113,10 @@ Global
 		{01BD35E9-950E-9357-5C88-69D929A61D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01BD35E9-950E-9357-5C88-69D929A61D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01BD35E9-950E-9357-5C88-69D929A61D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EFEDB8C-E074-2FB2-E90B-CCEF5D2E6BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFEDB8C-E074-2FB2-E90B-CCEF5D2E6BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFEDB8C-E074-2FB2-E90B-CCEF5D2E6BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFEDB8C-E074-2FB2-E90B-CCEF5D2E6BC6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C505CBF5-4F48-8662-5974-9AA6E14F0A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C505CBF5-4F48-8662-5974-9AA6E14F0A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C505CBF5-4F48-8662-5974-9AA6E14F0A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
