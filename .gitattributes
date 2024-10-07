@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.mp4 filter=lfs diff=lfs merge=lfs -text
+D:/Taipei_sim_root/Taipei_sim/Library/Artifacts/7a/7ae1668e1c6e84e19544c0c3a940dee4 filter=lfs diff=lfs merge=lfs -text
