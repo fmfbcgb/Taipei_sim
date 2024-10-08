@@ -2,3 +2,13 @@
 * text=auto
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 D:/Taipei_sim_root/Taipei_sim/Library/Artifacts/7a/7ae1668e1c6e84e19544c0c3a940dee4 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/03/0360274beec39d9f38e38d0a8847a45f filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/0c/0c6938e7416f878749388b9c9a9a91754 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/11/11d993e8b37b695bfe4d435514034edf filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/17/1768275528968664eeaeb4ed0e741d4f filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/22/2276a701364ea18643f662e9bc576ccc filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/29/295dba653d0e1286f627939f88c1ed79 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/2c/2c3bbca977086c26f19229ac11d095f filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/33/337e1434bd503ac2be7b325de264092a filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/3e/3e86c904598d780e5ddb164423928d32 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/75/757774548a73a5e9526e24f63165bb0c filter=lfs diff=lfs merge=lfs -text
