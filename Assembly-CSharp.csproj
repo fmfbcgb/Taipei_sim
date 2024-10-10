@@ -66,98 +66,98 @@
     <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\ActivateTrigger.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\CameraRefocus.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\BloomComponent.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\GrainComponent.cs" />
-    <Compile Include="Assets\Demo\Scripts\Hotkey.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\AlphaButtonClickMask.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\UserLutComponent.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\TimedObjectDestructor.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\FxaaComponent.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\DynamicShadowSettings.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Characters\RollerBall\Scripts\BallUserControl.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\AutoMoveAndRotate.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\ChromaticAberrationComponent.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Models\DitheringModel.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Models\GrainModel.cs" />
     <Compile Include="Assets\Demo\fracture\Project\Scripts\Fractures\ChunkGraphManager.cs" />
-    <Compile Include="Assets\Demo\fracture\Project\Scripts\Fractures\Anchor.cs" />
     <Compile Include="Assets\Demo\fracture\Project\Scripts\FractureThis.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\FOVKick.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Models\MotionBlurModel.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Models\DepthOfFieldModel.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Models\BuiltinDebugViewsModel.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
-    <Compile Include="Assets\Demo\fracture\Project\Scripts\Weapon\FireGun.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\WaypointProgressTracker.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Characters\FirstPersonCharacter\Scripts\HeadBob.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\PostProcessingComponent.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\ObjectResetter.cs" />
-    <Compile Include="Assets\Demo\fracture\Project\Scripts\Weapon\FireGunAlt.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\LerpControlledBob.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\EventSystemChecker.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\SmoothFollow.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Utils\ColorGradingCurve.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\TaaComponent.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\AutoMobileShaderSwitch.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\AmbientOcclusionComponent.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\MotionBlurComponent.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Models\ScreenSpaceReflectionModel.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\VignetteComponent.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\FollowTarget.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\PostProcessingContext.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\NvBlast\Plugins\NvBlastExtUnity.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Models\VignetteModel.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\DitheringComponent.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\ColorGradingComponent.cs" />
-    <Compile Include="Assets\Demo\fracture\Project\Scripts\Fractures\Fracture.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Models\ChromaticAberrationModel.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\DragRigidbody.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\PlatformSpecificContent.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\PostProcessingProfile.cs" />
     <Compile Include="Assets\Demo\fracture\Project\ShowHideUi.cs" />
     <Compile Include="Assets\Demo\fracture\Project\Scripts\Utils\Extensions.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Attributes\TrackballGroupAttribute.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\WaypointCircuit.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\ParticleSystemDestroyer.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\DepthOfFieldComponent.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\TimedObjectActivator.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\ScreenSpaceReflectionComponent.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\EyeAdaptationComponent.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Models\FogModel.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\PostProcessingBehaviour.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\SimpleMouseRotator.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\BuiltinDebugViewsComponent.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Models\ColorGradingModel.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\FogComponent.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\NvBlast\Plugins\NvBlast.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs" />
     <Compile Include="Assets\Demo\fracture\Project\SelectMesh.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Characters\RollerBall\Scripts\Ball.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\CurveControlledBob.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Utils\GraphicsUtils.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\PostProcessingModel.cs" />
-    <Compile Include="Assets\Demo\fracture\Project\Scripts\Fractures\FractureUtils.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Models\AntialiasingModel.cs" />
-    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Models\UserLutModel.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Models\EyeAdaptationModel.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Models\BloomModel.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Models\AmbientOcclusionModel.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs" />
     <Compile Include="Assets\Demo\fracture\Project\Scripts\Fractures\ChunkNode.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\GrainComponent.cs" />
+    <Compile Include="Assets\Demo\Scripts\Hotkey.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\UserLutComponent.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Characters\RollerBall\Scripts\BallUserControl.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\AutoMoveAndRotate.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Models\DitheringModel.cs" />
+    <Compile Include="Assets\Demo\fracture\Project\Scripts\Fractures\Anchor.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\FOVKick.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
+    <Compile Include="Assets\Demo\fracture\Project\Scripts\Weapon\FireGun.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\PostProcessingComponent.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" />
+    <Compile Include="Assets\Demo\fracture\Project\Scripts\Weapon\FireGunAlt.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\EventSystemChecker.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\SmoothFollow.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\MotionBlurComponent.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Models\ScreenSpaceReflectionModel.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\VignetteComponent.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\PostProcessingContext.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\ColorGradingComponent.cs" />
+    <Compile Include="Assets\Demo\fracture\Project\Scripts\Fractures\Fracture.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\PlatformSpecificContent.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\PostProcessingProfile.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\WaypointCircuit.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\ScreenSpaceReflectionComponent.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\EyeAdaptationComponent.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Models\FogModel.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\SimpleMouseRotator.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Components\BuiltinDebugViewsComponent.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Models\ColorGradingModel.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Characters\RollerBall\Scripts\Ball.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\CurveControlledBob.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\PostProcessingModel.cs" />
+    <Compile Include="Assets\Demo\fracture\Project\Scripts\Fractures\FractureUtils.cs" />
+    <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Models\UserLutModel.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
     <Compile Include="Assets\Demo\fracture\Tools\Standard Assets\Utility\FPSCounter.cs" />
@@ -1093,16 +1093,96 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.13f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.EditorCoroutines.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
+    <Reference Include="Unity.VisualEffectGraph.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualEffectGraph.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.AI.Navigation">
       <HintPath>Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Burst.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Rider.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Flow">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualEffectGraph.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualEffectGraph.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Mathematics.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
+      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.TestTools.CodeCoverage.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="PPv2URPConverters">
+      <HintPath>Library\ScriptAssemblies\PPv2URPConverters.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
+      <HintPath>Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VSCode.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.EditorCoroutines.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Burst">
+      <HintPath>Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
@@ -1111,6 +1191,10 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.Shared.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.ShaderGraph.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
@@ -1129,40 +1213,24 @@
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Rider.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Flow">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
@@ -1177,12 +1245,20 @@
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+    <Reference Include="Unity.Mathematics">
+      <HintPath>Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Searcher.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Shaders">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.AI.Navigation.Editor">
@@ -1193,22 +1269,14 @@
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
-      <HintPath>Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.VSCode.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="VRM10.csproj" />
-    <ProjectReference Include="UniHumanoid.csproj" />
     <ProjectReference Include="UniGLTF.csproj" />
-    <ProjectReference Include="Unity.AI.Navigation.Samples.Initialization.Editor.csproj" />
     <ProjectReference Include="SpringBoneJobs.csproj" />
     <ProjectReference Include="Unity.AI.Navigation.Samples.csproj" />
+    <ProjectReference Include="UniHumanoid.csproj" />
+    <ProjectReference Include="Unity.AI.Navigation.Samples.Initialization.Editor.csproj" />
   </ItemGroup>
   <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
   <ItemGroup>
