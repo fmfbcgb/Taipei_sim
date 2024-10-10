@@ -12,3 +12,11 @@ Library/Artifacts/2c/2c3bbca977086c26f19229ac11d095f filter=lfs diff=lfs merge=l
 Library/Artifacts/33/337e1434bd503ac2be7b325de264092a filter=lfs diff=lfs merge=lfs -text
 Library/Artifacts/3e/3e86c904598d780e5ddb164423928d32 filter=lfs diff=lfs merge=lfs -text
 Library/Artifacts/75/757774548a73a5e9526e24f63165bb0c filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/0c/0c6938e7416f878749388b9Ca9a91754 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/11/11d9938eb37b695bfe4d435514034edF filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/2c/2c3bbcaa977086c26F19229ac11de95F filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/33/3353cd2a92bf2c7b9bcbd81f2d204e2c filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/38/38af24c21afaeal832acde5cf22c4025 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/2c/2c3bbcaa977086c26f19229ac11d095f filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/38/38af24c21afaea1832ac4e5cf22c4025 filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.8.9/.Runtime/libburst-llvm-15.dylib filter=lfs diff=lfs merge=lfs -text

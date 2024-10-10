@@ -75,11 +75,11 @@
     <Compile Include="Assets\VRM10\vrmlib\Runtime\Coordinates.cs" />
     <Compile Include="Assets\VRM10\vrmlib\Runtime\MorphTarget.cs" />
     <Compile Include="Assets\VRM10\vrmlib\Runtime\MeshGroup.cs" />
+    <Compile Include="Assets\VRM10\vrmlib\Runtime\Humanoid\HumanoidBones.cs" />
+    <Compile Include="Assets\VRM10\vrmlib\Runtime\Humanoid\Humanoid.cs" />
     <Compile Include="Assets\VRM10\vrmlib\Runtime\Humanoid\SkeletonMeshUtility.cs" />
     <Compile Include="Assets\VRM10\vrmlib\Runtime\NodeAnimation.cs" />
-    <Compile Include="Assets\VRM10\vrmlib\Runtime\Humanoid\HumanoidBones.cs" />
     <Compile Include="Assets\VRM10\vrmlib\Runtime\VertexBuffer.cs" />
-    <Compile Include="Assets\VRM10\vrmlib\Runtime\Humanoid\Humanoid.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\VRM10\vrmlib\Runtime\VrmLib.asmdef" />

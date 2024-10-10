@@ -63,24 +63,24 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.13f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\Blittables\BlittableSpring.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\Blittables\BlittableJointMutable.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\FastSpringBoneBufferCombiner.cs" />
-    <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\InputPorts\FastSpringBoneBuffer.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\Blittables\BlittableTransform.cs" />
-    <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\UpdateFastSpringBoneJob.cs" />
-    <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\InputPorts\FastSpringBoneCollider.cs" />
-    <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\Blittables\BlittableSpan.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\InputPorts\FastSpringBoneSpring.cs" />
-    <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\Blittables\BlittableExternalData.cs" />
-    <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\Blittables\BlittableJointImmutable.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\Blittables\BlittableColliderType.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\Blittables\BlittableCollider.cs" />
-    <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\InputPorts\FastSpringBoneJoint.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\PushTransformJob.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\FastSpringBoneScheduler.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\FastSpringBoneDisposer.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\PullTransformJob.cs" />
+    <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\Blittables\BlittableSpring.cs" />
+    <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\InputPorts\FastSpringBoneBuffer.cs" />
+    <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\UpdateFastSpringBoneJob.cs" />
+    <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\InputPorts\FastSpringBoneCollider.cs" />
+    <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\Blittables\BlittableSpan.cs" />
+    <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\Blittables\BlittableExternalData.cs" />
+    <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\Blittables\BlittableJointImmutable.cs" />
+    <Compile Include="Assets\UniGLTF\Runtime\SpringBoneJobs\InputPorts\FastSpringBoneJoint.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\UniGLTF\Runtime\SpringBoneJobs\SpringBoneJobs.asmdef" />
